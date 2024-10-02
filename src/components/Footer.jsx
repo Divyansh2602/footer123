@@ -6,7 +6,7 @@ function Footer() {
       <div className="one">
         <div className="footer-left">
           <img
-            src="https://images.pexels.com/photos/674010/pexels-photo-674010.jpeg?cs=srgb&dl=pexels-anjana-c-169994-674010.jpg&fm=jpg"
+            src="/public/pics/logo.png"
             alt="Logo"
             className="logo"
           />
@@ -52,7 +52,7 @@ function Footer() {
       <div className="footer-icons">
         <a href="mailto:example@email.com">
           <img
-            src="https://p7.hiclipart.com/preview/663/97/225/email-computer-icons-message-bounce-address-email-icon.jpg"
+            src="/public/pics/image.png"
             alt="Email"
           />
         </a>
@@ -64,13 +64,13 @@ function Footer() {
         </a>
         <a href="#">
           <img
-            src="https://i.pinimg.com/originals/99/65/5e/99655e9fe24eb0a7ea38de683cedb735.jpg"
+            src="/public/pics/X.png"
             alt="X"
           />
         </a>
         <a href="#">
           <img
-            src="https://png.pngtree.com/element_our/png/20180827/linkedin-social-media-icon-png_71812.jpg"
+            src="/public/pics/linked.png"
             alt="LinkedIn"
           />
         </a>
